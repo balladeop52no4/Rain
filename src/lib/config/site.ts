@@ -8,9 +8,9 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'Powered by SvelteKit/Urara',
   author: {
-    avatar: '/assets/maskable@512.png',
-    name: 'John Doe',
-    status: '🌸',
+    avatar: '/assets/IMG_0111.JPG',
+    name: '大任',
+    status: 'X',
     bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
   },
   themeColor: '#3D4451'
