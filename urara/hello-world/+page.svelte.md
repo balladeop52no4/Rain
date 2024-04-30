@@ -27,7 +27,7 @@ Everything I write here, you can view as a beginner's notes of self-observation.
 ## ABOUT ME
 
 Voyager, Puzzle-addictator, Fast-leaner
-And Billionaire - a title I've had my sights set on for the next 20 years.
+And Billionaire - a title I've had my sights set on for the next 20 years.<br>
 However, regardless of how others perceive me, my personal favorite one is
 
 _A good soldier._
