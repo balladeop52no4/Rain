@@ -10,22 +10,25 @@ tags:
 ---
  
 So most of the times, <br>
-I would say I'm a pretty bright-spirited person, uh<br>
+I would say<br>
+I'm a pretty bright-spirited person, uh<br>
 Easy to get along with, you know?<br>
-And most of the times, I do smile a lot, I reckon<br>
-But then you know, sometimes I'm, hmm, well<br>
-<br>
-Fuck'n hell.<br> 
-<br>
+And most of the times,<br>
+I do smile a lot, I reckon<br>
+But then you know, sometimes I'm... <br>
+hmm, well<br>
+<!-- <br> -->
+<!-- Fuck'n hell.<br>  -->
+<!-- <br> -->
 
-## ABOUT THIS BLOG
+## ABOUT THIS
 Everything I write here, you can view as a beginner's notes of self-observation. And my observations on these matters, the thoughts and actions taken from these observations, as well as the resulting outcomes - that is, the way you see me in daily life, if we are fortunate enough to meet in personal - all of these will be recorded.
 
 ## ABOUT ME
 
-Voyager, Puzzle-addictator, Fast-leaner<br>
-And Billionaire - a title I've had my sights set on for the next 20 years.<br>
-However, regardless of how others perceive me, my personal favorite one is<br>
+Voyager, Puzzle-addictator, Fast-leaner
+And Billionaire - a title I've had my sights set on for the next 20 years.
+However, regardless of how others perceive me, my personal favorite one is
 
 _A good soldier._
 
